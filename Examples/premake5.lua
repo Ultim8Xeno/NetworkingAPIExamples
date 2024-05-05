@@ -22,7 +22,7 @@ project "Examples"
 
 	links
 	{
-		"Networking"
+		"NetworkingAPI"
 	}
 
 	filter "configurations:Debug"
