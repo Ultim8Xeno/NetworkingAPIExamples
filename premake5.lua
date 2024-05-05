@@ -1,7 +1,7 @@
-workspace "NetworkingExamples"
+workspace "NetworkingAPIExamples"
 	architecture "x86_64"
 	configurations { "Debug", "Release" }
 
-include "Networking"
+include "NetworkingAPI"
 
 include "Examples"

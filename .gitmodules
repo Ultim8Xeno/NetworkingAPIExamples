@@ -1,0 +1,3 @@
+[submodule "NetworkingAPI"]
+	path = NetworkingAPI
+	url = https://github.com/Ultim8Xeno/NetworkingAPI
