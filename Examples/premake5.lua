@@ -15,8 +15,8 @@ project "Examples"
 
 	includedirs
 	{
-		"%{wks.location}/Networking/src",
-		"%{wks.location}/Networking/dependencies/include",
+		"%{wks.location}/NetworkingAPI/src",
+		"%{wks.location}/NetworkingAPI/dependencies/include",
 		"src"
 	}
 
